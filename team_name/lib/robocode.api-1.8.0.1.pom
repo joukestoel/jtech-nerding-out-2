@@ -5,6 +5,9 @@
 	<groupId>net.sf.robocode</groupId>
 	<artifactId>robocode.api</artifactId>
 	<name>Robocode API</name>
+
+    <packaging>jar</packaging>
+    <version>1.8.0.1</version>
 	
 	<build>
 		<plugins>
