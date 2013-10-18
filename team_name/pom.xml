@@ -61,7 +61,7 @@
 								<!-- here the phase you need -->
 								<phase>validate</phase>
 								<goals>
-									<goal>copy-resources</goal>
+									<goal>pre-clean</goal>
 								</goals>
 								<configuration>
 									<outputDirectory>${settings.localRepository}\net\sf\robocode\robocode.api\1.8.0.1</outputDirectory>
